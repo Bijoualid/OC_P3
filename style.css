@@ -1,0 +1,164 @@
+body {
+  text-align: center;
+  margin: 0 auto;
+}
+
+
+header {
+  padding: 1%;
+}
+
+
+h1 {
+  font-size: 4rem;
+}
+
+
+h3 {
+  font-size: 3rem;
+}
+
+
+p {
+  font-size: 3.2rem;
+}
+
+
+a {
+  text-decoration: none;
+  font-size: 4.2rem;
+}
+
+
+section {
+  margin-top: 3.5%;
+}
+
+
+footer {
+  display: flex;
+  justify-content: space-between;
+  padding: 40px;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  left: 0;
+}
+
+
+.title {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+
+.background {
+  background-color: #579c87;
+  color: #fdcb46;
+}
+
+
+.carte {
+  box-shadow: 0 0 20px #ccc;
+  display: inline-block;
+  margin: 40px;
+  padding: 350px 150px 390px 150px;
+}
+
+
+.fas {
+  font-size: 6rem;
+  background: linear-gradient(to right, #f04a5e, #f78f6a);
+}
+
+
+.la_note_enchantee {
+  background-color: #fcdfdb;
+  padding-top: 12.5%;
+}
+
+
+.la_note_enchantee_txt {
+  color: #3c1218;
+  font-family: 'Courgette', cursive;
+}
+
+
+.la_note_enchantee_link {
+  color: #3c1218;
+  text-transform: uppercase;
+  font-family: "Comic Sans MS", sans-serif;
+}
+
+
+.le_chic_a_la_française {
+  background-color: #fff5fe;
+}
+
+
+.le_chic_a_la_française_txt {
+  font-family: 'Lobster Two', cursive;
+  background: -webkit-linear-gradient(top left, #d8852e, #905bfd);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+
+.le_chic_a_la_française_link {
+  color: #c77412;
+  font-weight: bold;
+}
+
+
+.Le_delice_des_papilles {
+  background-color: #f9f9f9;
+}
+
+
+.Le_delice_des_papilles_txt {
+  font-family: 'Dancing Script', cursive;
+  background: -webkit-linear-gradient(top left, #0431df, #0887fb);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+
+.Le_delice_des_papilles_link {
+  color: #0887fb;
+}
+
+
+.la_palette_du_gout {
+  background-color: #fdfffd;
+}
+
+
+.la_palette_du_gout_txt {
+  background: -webkit-linear-gradient(top left, #4c9f42, #bfff7e);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+
+.la_palette_du_gout_link {
+  color: #72bf56;
+}
+
+
+.menu {
+  font-family: 'Kaushan Script', cursive;
+}
+
+
+.prochainement {
+  margin: 100px 600px 250px;
+  padding: 20px 0;
+  border-radius: 15px;
+}
+
+
+.legal-contact {
+color: #fdcb46;
+font-size: 3rem;
+font-family: Arial, sans-serif;
+}
