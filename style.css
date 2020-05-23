@@ -26,6 +26,14 @@ h3 {
 }
 
 
+h4 {
+  margin-top: 150px;
+  margin-bottom: 0;
+  font-weight: 700;
+  font-size: 2.6rem;
+}
+
+
 p {
   font-size: 3.2rem;
 }
@@ -37,6 +45,18 @@ a {
 }
 
 
+table {
+  text-align: left;
+  line-height: 2;
+}
+
+
+td {
+  font-size: 2.5rem;
+  font-weight: 400;
+}
+
+
 section {
   margin-top: 3.5%;
 }
@@ -45,7 +65,8 @@ section {
 footer {
   display: flex;
   justify-content: space-between;
-  padding: 40px;
+  padding: 20px;
+  border-top: 2px solid #a1c181;
   position: fixed;
   bottom: 0;
   right: 0;
@@ -166,6 +187,22 @@ footer {
 
 .legal-contact {
 color: #fdcb46;
-font-size: 3rem;
+font-size: 2.8rem;
 font-family: Arial, sans-serif;
+}
+
+
+/*Héritage*/
+
+
+.table {
+  display: inline-block;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 50px;
+}
+
+
+.prix {
+  font-weight: bold;
 }

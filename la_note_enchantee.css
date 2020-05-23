@@ -9,23 +9,9 @@ h4 {
 }
 
 
-table {
-  text-align: left;
-  line-height: 2;
-}
-
-
-td {
-  font-size: 2.5rem;
-  font-weight: 400;
-  padding-right: 100px;
-}
-
-
 .carte {
   padding: 50px 200px 200px 200px;
   margin-bottom: 13%;
-  color: #3d1319;
 }
 
 
@@ -37,14 +23,4 @@ td {
 .pic-title-bottom p {
   display: inline;
   margin-left: 15px;
-}
-
-
-.menu {
-  margin-top: 100px;
-}
-
-
-.prix {
-  font-weight: 700;
 }
