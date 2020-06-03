@@ -1,0 +1,24 @@
+body {
+  font-family: 'Handlee', cursive;
+}
+
+
+h4 {
+  font-size: 2rem;
+}
+
+
+td {
+  font-size: 1.5rem;
+}
+
+
+.carte {
+  padding: 50px 220px 200px 220px;
+  margin-bottom: 13%;
+}
+
+
+.Le_delice_des_papilles_txt {
+  font-size: 6rem;
+}
