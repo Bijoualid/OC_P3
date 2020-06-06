@@ -58,11 +58,6 @@ td {
 }
 
 
-section {
-  margin-top: 3.5%;
-}
-
-
 footer {
   display: flex;
   justify-content: space-between;
@@ -72,6 +67,11 @@ footer {
   bottom: 0;
   right: 0;
   left: 0;
+}
+
+
+.section {
+  margin-top: 3.5%;
 }
 
 
@@ -126,6 +126,9 @@ footer {
 .le_chic_a_la_française_txt {
   font-family: 'Lobster Two', cursive;
   background: -webkit-linear-gradient(top left, #d8852e, #905bfd);
+  background: -moz-linear-gradient(top left, #d8852e, #905bfd);
+  background: -ms-linear-gradient(top left, #d8852e, #905bfd);
+  background: -o-linear-gradient(top left, #d8852e, #905bfd);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -145,6 +148,9 @@ footer {
 .Le_delice_des_papilles_txt {
   font-family: 'Dancing Script', cursive;
   background: -webkit-linear-gradient(top left, #0431df, #0887fb);
+  background: -moz-linear-gradient(top left, #0431df, #0887fb);
+  background: -ms-linear-gradient(top left, #0431df, #0887fb);
+  background: -o-linear-gradient(top left, #0431df, #0887fb);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -162,6 +168,9 @@ footer {
 
 .la_palette_du_gout_txt {
   background: -webkit-linear-gradient(top left, #4c9f42, #bfff7e);
+  background: -moz-linear-gradient(top left, #4c9f42, #bfff7e);
+  background: -ms-linear-gradient(top left, #4c9f42, #bfff7e);
+  background: -o-linear-gradient(top left, #4c9f42, #bfff7e);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
