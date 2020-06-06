@@ -36,6 +36,7 @@ h4 {
 
 p {
   font-size: 3.2rem;
+  width: 412px;
 }
 
 
@@ -95,14 +96,13 @@ footer {
 
 
 .fas {
-  font-size: 6rem;
-  background: linear-gradient(to right, #f04a5e, #f78f6a);
+  font-size: 5rem;
 }
 
 
 .la_note_enchantee {
   background-color: #fcdfdb;
-  padding-top: 12.5%;
+  padding-top: 13.4%;
 }
 
 
@@ -114,7 +114,6 @@ footer {
 
 .la_note_enchantee_link {
   color: #3c1218;
-  text-transform: uppercase;
   font-family: "Comic Sans MS", sans-serif;
 }
 
@@ -179,7 +178,7 @@ footer {
 
 
 .prochainement {
-  margin: 100px 600px 250px;
+  margin: 100px 250px;
   padding: 20px 0;
   border-radius: 15px;
 }
@@ -205,4 +204,18 @@ font-family: Arial, sans-serif;
 
 .prix {
   font-weight: bold;
+}
+
+
+@media screen and (max-device-width: 1280px) {
+
+  body {
+    width: 1000px;
+  }
+
+
+  .prochainement {
+    margin: 100px auto 200px;
+    width: 60%;
+  }
 }
