@@ -27,22 +27,3 @@ td {
 .la_palette_du_gout_txt {
   font-size: 5rem;
 }
-
-
-@media screen and (max-width: 1280px) {
-
-  .carte {
-    padding: 50px 40px 200px 40px;
-  }
-
-
-  .lower-padding {
-    padding-top: 50px;
-  }
-
-
-  .la_note_enchantee_txt {
-    font-size: 3rem;
-  }
-
-}

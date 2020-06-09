@@ -214,28 +214,3 @@ font-family: Arial, sans-serif;
 .prix {
   font-weight: bold;
 }
-
-
-@media screen and (max-width: 1440px) {
-
-  body {
-    width: 900px;
-  }
-
-
-  p {
-    width: auto;
-  }
-
-
-  td {
-    font-size: 2.2rem;
-  }
-
-
-  .prochainement {
-    margin: 100px auto 200px;
-    width: 60%;
-  }
-
-}

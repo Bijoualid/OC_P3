@@ -30,17 +30,3 @@ p {
   display: inline;
   margin-left: 15px;
 }
-
-
-@media screen and (max-width: 1280px) {
-
-  .carte {
-    padding: 50px 10px 100px 10px;
-  }
-
-
-  .pic-title-bottom {
-    margin-top: 100px;
-  }
-
-}

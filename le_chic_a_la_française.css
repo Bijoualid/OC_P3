@@ -37,15 +37,3 @@ td {
 .margin-prix {
   margin-left: 90px;
 }
-
-
-
-
-
-@media screen and (max-width: 1280px) {
-
-  .carte {
-    padding: 50px 30px 150px 30px;
-  }
-
-}
