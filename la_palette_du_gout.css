@@ -19,7 +19,7 @@ td {
 
 
 .carte {
-  padding: 50px 200px 200px 200px;
+  padding: 50px 150px 150px 150px;
   margin-bottom: 13%;
 }
 
@@ -29,10 +29,20 @@ td {
 }
 
 
-@media screen and (max-device-width: 1280px) {
+@media screen and (max-width: 1280px) {
 
   .carte {
-    padding: 50px 10px 200px 10px;
+    padding: 50px 40px 200px 40px;
+  }
+
+
+  .lower-padding {
+    padding-top: 50px;
+  }
+
+
+  .la_note_enchantee_txt {
+    font-size: 3rem;
   }
 
 }

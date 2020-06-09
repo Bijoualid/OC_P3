@@ -19,20 +19,20 @@ td {
 
 
 .carte {
-  padding: 50px 200px 200px 200px;
+  padding: 50px 150px 150px 150px;
   margin-bottom: 13%;
 }
 
 
 .Le_delice_des_papilles_txt {
-  font-size: 6rem;
+  font-size: 5rem;
 }
 
 
-@media screen and (max-device-width: 1280px) {
+@media screen and (max-width: 1280px) {
 
   .carte {
-    padding: 50px 10px 200px 10px;
+    padding: 50px 60px 200px 60px;
   }
 
 }
