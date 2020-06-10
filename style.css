@@ -98,18 +98,22 @@ footer {
 
 .fas {
   font-size: 5rem;
+  position: absolute;
+  top: 250px;
+  right: 260px;
 }
 
 
 .la_note_enchantee {
   background-color: #fcdfdb;
-  padding-top: 11%;
+  position: relative;
 }
 
 
 .la_note_enchantee_txt {
   color: #3c1218;
   font-family: 'Courgette', cursive;
+  height: 50px;
 }
 
 
