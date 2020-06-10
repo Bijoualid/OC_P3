@@ -21,6 +21,11 @@ p {
 }
 
 
+.la_note_enchantee {
+  position: inherit;
+}
+
+
 .pic-title-bottom {
   margin-top: 150px;
 }
@@ -29,4 +34,9 @@ p {
 .pic-title-bottom p {
   display: inline;
   margin-left: 15px;
+}
+
+
+.fas {
+  position: inherit;
 }

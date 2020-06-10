@@ -220,3 +220,11 @@ font-family: Arial, sans-serif;
 .prix {
   font-weight: bold;
 }
+
+
+@media screen and (max-width: 1440px)
+{
+  body {
+    background-color: purple;
+  }
+}
