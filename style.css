@@ -222,9 +222,20 @@ font-family: Arial, sans-serif;
 }
 
 
-@media screen and (max-width: 1440px)
+@media screen and (max-width: 700px)
 {
   body {
-    background-color: purple;
+    margin: auto;
+  }
+
+
+  .carte {
+    margin: 40px 5px;
+    padding: 200px 50px 200px 50px;
+  }
+
+
+  .fas {
+    position: static;
   }
 }
