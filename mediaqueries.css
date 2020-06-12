@@ -1,0 +1,114 @@
+@media screen and (max-width: 768px)
+{
+  body {
+    margin: auto;
+  }
+
+
+  .carte {
+    margin: 40px 5px;
+    padding: 200px 50px 200px 50px;
+  }
+
+
+  .fas {
+    position: static;
+  }
+
+
+  .la_palette_du_gout_txt {
+    font-size: 3.2rem;
+  }
+
+
+  .Le_delice_des_papilles_txt {
+    font-size: 3.2rem;
+  }
+}
+
+
+@media screen and (min-width: 200px) and (max-width: 420px)
+{
+  body {
+    width: 420px;
+  }
+
+
+  h1 {
+    font-size: 2.5rem;
+  }
+
+
+  h2 {
+    font-size: 1.8rem;
+  }
+
+
+  h3 {
+    font-size: 1.5rem;
+  }
+
+
+  h4 {
+    font-size: 1.6rem;
+  }
+
+
+  p {
+    font-size: 2rem;
+    width: 300px;
+    margin: 32px auto;
+  }
+
+
+  a {
+    font-size: 2rem;
+  }
+
+
+  td {
+    font-size: 0.8rem;
+  }
+
+
+  footer {
+    max-width: 420px;
+    position: inherit;
+  }
+
+
+  .carte {
+    padding: 200px 10px;
+  }
+
+
+  .carte-smaller {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+
+
+  .fas {
+    font-size: 2.5rem;
+  }
+
+
+  .prochainement {
+    margin-bottom: 100px;
+  }
+
+
+  .legal-contact {
+    font-size: 1.2rem;
+  }
+
+
+  .la_palette_du_gout_txt {
+    font-size: 1.6rem;
+  }
+
+
+  .Le_delice_des_papilles_txt {
+    font-size: 1.6rem;
+  }
+}
