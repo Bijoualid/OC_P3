@@ -78,14 +78,14 @@
 
 
   .carte {
-    padding: 200px 10px;
+    padding: 80px 10px;
   }
 
 
-  .carte-smaller {
+  /* .carte-smaller {
     padding-top: 80px;
     padding-bottom: 80px;
-  }
+  } */
 
 
   .fas {
