@@ -100,7 +100,7 @@ footer {
   font-size: 5rem;
   position: absolute;
   top: 250px;
-  right: 260px;
+  right: 240px;
 }
 
 
@@ -254,7 +254,7 @@ font-family: Arial, sans-serif;
 
 
   h3 {
-    font-size: 2rem;
+    font-size: 1.8rem;
   }
 
 
@@ -266,6 +266,11 @@ font-family: Arial, sans-serif;
 
   a {
     font-size: 3rem;
+  }
+
+
+  footer {
+    max-width: 420px;
   }
 
 
