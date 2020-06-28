@@ -27,10 +27,10 @@
 }
 
 
-@media screen and (min-width: 200px) and (max-width: 420px)
+@media screen and (min-width: 200px) and (max-width: 640px)
 {
   body {
-    width: 420px;
+    max-width: 640px;
   }
 
 
@@ -68,12 +68,6 @@
 
   td {
     font-size: 0.8rem;
-  }
-
-
-  footer {
-    max-width: 420px;
-    position: inherit;
   }
 
 
